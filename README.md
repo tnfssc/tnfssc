@@ -1,3 +1,5 @@
-### [sharath.uk](https://sharath.uk/)
+# [sharath.uk](https://sharath.uk/)
 
-INSIDE is awesome
+Horizon breaks
+
+[Resume](./RESUME.md)
