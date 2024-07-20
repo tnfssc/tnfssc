@@ -28,7 +28,7 @@
 
 **DevOps Engineer** | Scaled the infrastructure of the website and backend to infinity using Cloudflare
 
-### [covid19tracker.in (defunct)](https://ocs.iith.ac.in/) (Sep 2021 - Dec 2021)
+### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
 **Lead Developer** | Lead the team of the entire project from initiation to deployment
 
@@ -47,6 +47,26 @@
 - **[blog.sharath.uk](https://blog.sharath.uk/)** | Just a blog (with secret knowledge)
 
   - Astro, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
+
+- **SaaS Labs > JustCall Apex** | The next-gen user interface for JustCall
+
+  - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
+
+- **SaaS Labs > JustCall AI Notetaker** | A bot that joins meetings, records them, generates the highlights and summary, and sends them to the user
+
+  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg
+
+- **SaaS Labs > JustCall Search** | A search engine for multiple products under the JustCall brand
+
+  - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
+
+- **[IITH > Office of Career Services](https://ocs.iith.ac.in/)** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform.
+
+  - React, JavaScript, MaterialUI, NodeJS, Express, MySQL
+
+- **[IITH > htOS (demo)](https://htos-demo.sharath.uk/)** | Hostel room management system for IIT Hyderabad
+
+  - React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
 
 - **[Youtube summarizer](https://www.sharath.uk/youtube-summarizer)** | Put a link and get a summary of the video
 
