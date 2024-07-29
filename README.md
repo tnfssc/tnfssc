@@ -1,5 +1,5 @@
 # [sharath.uk](https://sharath.uk/)
 
-Horizon breaks
+> [resume here](./RESUME.md)
 
-[Resume](./RESUME.md)
+I craft with code.
