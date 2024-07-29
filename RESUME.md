@@ -1,12 +1,24 @@
 # Sharath
 
-> Builder. Developer. Software Engineer.
+> Building robust software, from concept to deployment.
 
-**Website**: [sharath.uk](https://sharath.uk/)
+[![sharath.uk](https://img.shields.io/badge/website-sharath.uk-darkgreen?style=for-the-badge)](https://sharath.uk/)
+[![blog.sharath.uk](https://img.shields.io/badge/blog-blog.sharath.uk-white?style=for-the-badge)](https://blog.sharath.uk/)
 
-**Blog**: [blog.sharath.uk](https://blog.sharath.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&color=black)](https://www.linkedin.com/in/tnfssc/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&color=black)](https://twitter.com/tnfssc)
+[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&color=black)](mailto:admin@sharath.uk)
 
-**Social**: [LinkedIn](https://www.linkedin.com/in/tnfssc/), [GitHub](https://github.com/tnfssc), [Twitter](https://twitter.com/tnfssc), [Email](mailto:admin@sharath.uk)
+---
+
+## Technology
+
+**Great with** | React, TypeScript, NodeJS, Docker, TailwindCSS
+
+**Good with** | NoSQL, ORMs, Vite, Puppeteer, Jest
+
+**I like** | Svelte, Astro, Tauri, LangChain, React Native, Cloudflare, Vercel
 
 ---
 
@@ -16,25 +28,43 @@
 
 **Software Development Engineer (SDEII)** | Full-Stack dev and decision-maker for various projects
 
+- **Apex** | The next-gen user interface for JustCall
+
+  - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
+
+- **AI Notetaker** | A bot that joins meetings, records them, generates the highlights and summary, and sends them to the user
+
+  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg
+
+- **Search** | A search engine for multiple products under the JustCall brand
+
+  - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
+
 ### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
 
-**Full-Stack Developer Intern** | Built internal dashboard and Google Drive like feature
+**Full-Stack Developer Intern** | Built internal dashboard and Google Drive like feature.
 
 ---
 
 ## Freelance
 
-### [htOS](https://www.iith.ac.in/) (Apr 2022 - July 2022)
+### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
-**DevOps Engineer** | Scaled the infrastructure of the website and backend to infinity using Cloudflare
+**DevOps Engineer** | Hostel room management system for IIT Hyderabad | Scaled the infrastructure of the website and backend to infinity using Cloudflare.
+
+- React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
 
 ### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Lead Developer** | Lead the team of the entire project from initiation to deployment
+**Lead Developer** | Lead the team of the entire project from initiation to deployment.
+
+- NodeJS, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
 ### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
 
-**Web Developer** | Built the web app from scratch and worked on the backend
+**Web Developer** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform. | Built the web app from scratch and worked on the backend.
+
+- React, JavaScript, MaterialUI, NodeJS, Express, MySQL
 
 ---
 
@@ -42,31 +72,11 @@
 
 - **[sharath.uk](https://sharath.uk/)** | More than a personal website
 
-  - React, TypeScript, TailwindCSS, Vite, Firebase, Turso, SQLite, Drizzle
+  - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
 
 - **[blog.sharath.uk](https://blog.sharath.uk/)** | Just a blog (with secret knowledge)
 
-  - Astro, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
-
-- **SaaS Labs > JustCall Apex** | The next-gen user interface for JustCall
-
-  - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
-
-- **SaaS Labs > JustCall AI Notetaker** | A bot that joins meetings, records them, generates the highlights and summary, and sends them to the user
-
-  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg
-
-- **SaaS Labs > JustCall Search** | A search engine for multiple products under the JustCall brand
-
-  - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
-
-- **[IITH > Office of Career Services](https://ocs.iith.ac.in/)** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform.
-
-  - React, JavaScript, MaterialUI, NodeJS, Express, MySQL
-
-- **[IITH > htOS (demo)](https://htos-demo.sharath.uk/)** | Hostel room management system for IIT Hyderabad
-
-  - React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
+  - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
 
 - **[Youtube summarizer](https://www.sharath.uk/youtube-summarizer)** | Put a link and get a summary of the video
 
@@ -104,6 +114,10 @@
 
   - TypeScript, GitHub Actions, NPM, Jest
 
+- **upcoming** | A desktop app that I am currently working on
+
+  - Tauri, React, TypeScript, PandaCSS
+
 ---
 
 ## Education
@@ -112,10 +126,11 @@
 
 **Bachelor of Technology in Engineering Science** | Software Engineering, Computer Networking, Operating Systems, Drones, Digital Logic Design, IoT
 
-## Technology
+---
 
-**Great with** | React, TypeScript, NodeJS, Docker, TailwindCSS
+## Contributions
 
-**Good with** | NoSQL, ORMs, Vite, Puppeteer, Jest
-
-**I like** | Svelte, Astro, Tauri, LangChain, React Native, Cloudflare, Vercel
+[![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react)
+[![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs)
+[![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=teal)](https://github.com/langchain-ai/langchainjs)
+[![FluentUI](https://img.shields.io/github/stars/microsoft/fluentui?style=for-the-badge&logo=fluentd&label=FluentUI&color=blue)](https://github.com/microsoft/fluentui)
