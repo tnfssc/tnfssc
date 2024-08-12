@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&color=black)](https://www.linkedin.com/in/tnfssc/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&color=black)](https://twitter.com/tnfssc)
-[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&color=black)](mailto:admin@sharath.uk)
+[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=maildotru&color=black)](mailto:admin@sharath.uk)
 
 ---
 
@@ -24,7 +24,11 @@
 
 ## Employment
 
-### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - now)
+### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
+
+**Senior Software Development Engineer** | Rapid experimentation and hyper-optimized development workflows.
+
+### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
 **Software Development Engineer (SDEII)** | Full-Stack dev and decision-maker for various projects
 
@@ -78,6 +82,10 @@
 
   - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
 
+- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
+
+  - Tauri, Linux, GitHub Actions, React, React Query
+
 - **[Youtube summarizer](https://www.sharath.uk/youtube-summarizer)** | Put a link and get a summary of the video
 
   - Cloudflare Workers, LangChain, Hono, Streams
@@ -113,10 +121,6 @@
 - **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
 
   - TypeScript, GitHub Actions, NPM, Jest
-
-- **upcoming** | A desktop app that I am currently working on
-
-  - Tauri, React, TypeScript, PandaCSS
 
 ---
 
