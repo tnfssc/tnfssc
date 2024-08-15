@@ -122,6 +122,10 @@
 
   - TypeScript, GitHub Actions, NPM, Jest
 
+- **[gai](https://github.com/tnfssc/gai)** | Blazingly fast AI command generator made with Go
+
+  - Go, LangChain, OpenAI, GitHub Actions
+
 ---
 
 ## Education
