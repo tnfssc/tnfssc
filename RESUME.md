@@ -1,6 +1,6 @@
 # Sharath
 
-> Building robust software, from concept to deployment.
+> Building robust software since 2020
 
 [![sharath.uk](https://img.shields.io/badge/website-sharath.uk-darkgreen?style=for-the-badge)](https://sharath.uk/)
 [![blog.sharath.uk](https://img.shields.io/badge/blog-blog.sharath.uk-white?style=for-the-badge)](https://blog.sharath.uk/)
