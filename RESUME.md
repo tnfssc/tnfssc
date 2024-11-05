@@ -106,6 +106,13 @@ Open source contributions
 
   - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
 
+<details>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
+
+- **[neko](https://neko.sharath.uk/)** | Non-sense generator. HTML streaming and slow page layout rendering.
+
+  - LangChain, Deno, HTML
+
 - **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
 
   - Tauri, Linux, GitHub Actions, React, React Query
@@ -153,6 +160,8 @@ Open source contributions
 - **[sca.run](https://www.sca.run)** | Coming soon
 
 - **[s3.sca.run](https://s3.sca.run)** | Coming soon
+
+</details>
 
 ---
 
