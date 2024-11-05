@@ -1,9 +1,12 @@
-# Sharath
+# [Sharath](https://sharath.uk)
 
-> Building robust software since 2020
+> Veritus | SaaS Labs | IIT Hyderabad | Working since 2020
+>
+> TypeScript, Distributed systems, Docker, LLMs. Building type-safe and maintainable code repositories.
 
 [![sharath.uk](https://img.shields.io/badge/website-sharath.uk-darkgreen?style=for-the-badge)](https://sharath.uk/)
 [![blog.sharath.uk](https://img.shields.io/badge/blog-blog.sharath.uk-white?style=for-the-badge)](https://blog.sharath.uk/)
+[![sca.run](https://img.shields.io/badge/void-sca.run-black?style=for-the-badge)](https://www.sca.run/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&color=black)](https://www.linkedin.com/in/tnfssc/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
@@ -12,13 +15,22 @@
 
 ---
 
+Open source contributions
+
+[![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
+[![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
+[![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
+[![FluentUI](https://img.shields.io/github/stars/microsoft/fluentui?style=for-the-badge&logo=fluentd&label=FluentUI&color=blue)](https://github.com/microsoft/fluentui/pull/31854)
+
+---
+
 ## Technology
 
-**Great with** | React, TypeScript, NodeJS, Docker, TailwindCSS
+**Great with** | React, TypeScript, NodeJS, Docker
 
-**Good with** | NoSQL, ORMs, Vite, Puppeteer, Jest
+**Good with** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind
 
-**I like** | Svelte, Astro, Tauri, LangChain, React Native, Cloudflare, Vercel
+**I like** | Svelte, Astro, LangChain, React Native, Cloudflare, Vercel
 
 ---
 
@@ -26,7 +38,15 @@
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
 
-**Senior Software Development Engineer** | Rapid experimentation and hyper-optimized development workflows.
+**Senior Software Development Engineer** | Rapid experimentation and hyper-optimized workflows.
+
+- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem detection to resolution time by 100x and improving SLAs.
+
+  - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
+
+- **Search** | Built a search engine on 100GB of data using OpenSearch (Elasticsearch). Supporting similarity search using cosine similarity.
+
+  - OpenSearch, AWS, Python, Embeddings, Rerank
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
@@ -38,7 +58,7 @@
 
 - **AI Notetaker** | A bot that joins meetings, records them, generates the highlights and summary, and sends them to the user
 
-  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg
+  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Distributed systems
 
 - **Search** | A search engine for multiple products under the JustCall brand
 
@@ -46,7 +66,11 @@
 
 ### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
 
-**Full-Stack Developer Intern** | Built internal dashboard and Google Drive like feature.
+**Full-Stack Developer Intern** | Learnt to resolve merge conflicts and working with a team.
+
+- Built internal dashboard and a Google Drive like feature.
+
+  - React, Webpack, NodeJS, ExpressJS
 
 ---
 
@@ -54,19 +78,19 @@
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
-**DevOps Engineer** | Hostel room management system for IIT Hyderabad | Scaled the infrastructure of the website and backend to infinity using Cloudflare.
+**DevOps Engineer** | Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
 
 - React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
 
 ### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Lead Developer** | Lead the team of the entire project from initiation to deployment.
+**Lead Developer** | Lead the team of the entire project from initiation to deployment | Scaled to a peak 3 TB traffic per month
 
-- NodeJS, Cloudflare, GitHub Actions, Docker, PostgreSQL
+- NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
 ### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
 
-**Web Developer** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform. | Built the web app from scratch and worked on the backend.
+**Web Developer** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform | Built the web app from scratch and worked on the backend | Over 1000 active users.
 
 - React, JavaScript, MaterialUI, NodeJS, Express, MySQL
 
@@ -126,6 +150,10 @@
 
   - Go, LangChain, OpenAI, GitHub Actions
 
+- **[sca.run](https://www.sca.run)** | Coming soon
+
+- **[s3.sca.run](https://s3.sca.run)** | Coming soon
+
 ---
 
 ## Education
@@ -133,12 +161,3 @@
 ### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (2018 - 2022)
 
 **Bachelor of Technology in Engineering Science** | Software Engineering, Computer Networking, Operating Systems, Drones, Digital Logic Design, IoT
-
----
-
-## Contributions
-
-[![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react)
-[![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs)
-[![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=teal)](https://github.com/langchain-ai/langchainjs)
-[![FluentUI](https://img.shields.io/github/stars/microsoft/fluentui?style=for-the-badge&logo=fluentd&label=FluentUI&color=blue)](https://github.com/microsoft/fluentui)
