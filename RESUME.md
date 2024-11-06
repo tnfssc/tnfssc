@@ -98,6 +98,21 @@ Open source contributions
 
 ## Projects
 
+- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
+
+  - Tauri, Linux, GitHub Actions, React, React Query
+
+- **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
+
+  - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
+
+- **[Terminova (defunct)](https://terminova.dev)** | Predictive autocomplete in a terminal app. Discontinued due to advanced competition.
+
+  - Rust, TypeScript, Tauri, Wails, Go, OpenAI
+
+<details>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
+
 - **[sharath.uk](https://sharath.uk/)** | More than a personal website
 
   - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
@@ -105,9 +120,6 @@ Open source contributions
 - **[blog.sharath.uk](https://blog.sharath.uk/)** | Just a blog (with secret knowledge)
 
   - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
-
-<details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
 
 - **[neko](https://neko.sharath.uk/)** | Non-sense generator. HTML streaming and slow page layout rendering.
 
