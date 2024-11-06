@@ -145,14 +145,6 @@ Open source contributions
 
   - Cloudflare Workers, Cloudflare R2
 
-- **[Terminova (defunct)](https://terminova.dev)** | Predictive autocomplete in a terminal app. Discontinued due to advanced competition.
-
-  - Rust, TypeScript, Tauri, Wails, Go, OpenAI
-
-- **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
-
-  - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
-
 - **[Code server](https://github.com/tnfssc/code-server)** | Docker image for VS Code and development tools
 
   - Docker, asdf, GitHub Actions
