@@ -40,13 +40,13 @@ Open source contributions
 
 **Senior Software Development Engineer** | Rapid experimentation and hyper-optimized workflows.
 
-- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem detection to resolution time by 100x and improving SLAs.
+- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem resolution time by 100x and improving SLAs.
 
   - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
 
-- **Search** | Built a search engine on 100GB of data using OpenSearch (Elasticsearch). Supporting similarity search using cosine similarity.
+- **Search** | Building an agentic search engine optimized for scientific research.
 
-  - OpenSearch, AWS, Python, Embeddings, Rerank
+  - OpenSearch, LangGraph, Web scraping
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
