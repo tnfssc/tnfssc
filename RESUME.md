@@ -4,9 +4,9 @@
 >
 > TypeScript, Distributed systems, Docker, LLMs. Building type-safe and maintainable code repositories.
 
-[![sca.run](https://img.shields.io/badge/website-sca.run-darkgreen?style=for-the-badge)](https://sca.run/)
-[![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-white?style=for-the-badge)](https://sca.run/blog/)
-[![sharath.uk](https://img.shields.io/badge/void-sharath.uk-black?style=for-the-badge)](https://sharath.uk/)
+[![sca.run](https://img.shields.io/badge/website-sca.run-red?style=for-the-badge)](https://sca.run/)
+[![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
+[![sharath.uk](https://img.shields.io/badge/void-sharath.uk-blue?style=for-the-badge)](https://sharath.uk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&color=black)](https://www.linkedin.com/in/tnfssc/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
