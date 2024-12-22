@@ -1,12 +1,12 @@
-# [Sharath](https://sharath.uk)
+# [Sharath](https://sca.run)
 
 > Veritus | SaaS Labs | IIT Hyderabad | Working since 2020
 >
 > TypeScript, Distributed systems, Docker, LLMs. Building type-safe and maintainable code repositories.
 
-[![sharath.uk](https://img.shields.io/badge/website-sharath.uk-darkgreen?style=for-the-badge)](https://sharath.uk/)
-[![blog.sharath.uk](https://img.shields.io/badge/blog-blog.sharath.uk-white?style=for-the-badge)](https://blog.sharath.uk/)
-[![sca.run](https://img.shields.io/badge/void-sca.run-black?style=for-the-badge)](https://www.sca.run/)
+[![sca.run](https://img.shields.io/badge/website-sca.run-darkgreen?style=for-the-badge)](https://sca.run/)
+[![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-white?style=for-the-badge)](https://sca.run/blog/)
+[![sharath.uk](https://img.shields.io/badge/void-sharath.uk-black?style=for-the-badge)](https://sharath.uk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&color=black)](https://www.linkedin.com/in/tnfssc/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
