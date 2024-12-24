@@ -1,4 +1,4 @@
-# [Sharath the Awesome](https://sca.run)
+# [Sharath Chandra, the Awesome](https://sca.run)
 
 > **Veritus** • **SaaS Labs** • **IIT Hyderabad** • ~ Adventuring since 2020 ~
 >
