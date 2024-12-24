@@ -26,8 +26,10 @@ Bravely aiding code guilds with contributions:
 
 ## Tech Arsenal
 
-**Legendary Mastery** | React, TypeScript, NodeJS, Docker  
-**Solid Skills** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind  
+**Legendary Mastery** | React, TypeScript, NodeJS, Docker
+
+**Solid Skills** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind
+
 **Preferred Potions** | Svelte, Astro, LangChain, React Native, Cloudflare, Vercel
 
 ---
