@@ -15,9 +15,7 @@
 
 ---
 
-## Open Source Guild Contributions
-
-Bravely aiding code guilds:
+Bravely aiding code guilds with contributions:
 
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
@@ -34,7 +32,7 @@ Bravely aiding code guilds:
 
 ---
 
-## Employment (Epic Journeys)
+## Main Quests
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
 
@@ -74,7 +72,7 @@ Bravely aiding code guilds:
 
 ---
 
-## Freelance (Solo Quests)
+## Side Quests
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
@@ -96,7 +94,7 @@ Bravely aiding code guilds:
 
 ---
 
-## Projects (Quest Log)
+## Solo Quests
 
 - **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A magical interface to manage dev tools
 
@@ -168,7 +166,7 @@ Bravely aiding code guilds:
 
 ---
 
-## Education (Leveling Up)
+## Sanctum
 
 ### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (2018 - 2022)
 
