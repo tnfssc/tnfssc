@@ -1,4 +1,4 @@
-# [Sharath](https://sca.run)
+# [Sharath](https://sca.run/resume)
 
 > Veritus | SaaS Labs | IIT Hyderabad | Working since 2020
 >
