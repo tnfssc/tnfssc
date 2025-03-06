@@ -40,9 +40,9 @@ Open source contributions
 
 **Senior Software Development Engineer** | Rapid experimentation and hyper-optimized workflows.
 
-- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem resolution time by 100x and improving SLAs.
+- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem resolution time by 100x and improving SLAs. Integrated PostHog analytics, Stripe payments and a few other services.
 
-  - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
+  - NextJS, tRPC, Mongoose, LangChain, Tailwind, PostHog, CI/CD, Stripe
 
 - **Search** | Search for papers from a massive 3TB of data. 3x more relevant results than Google Scholar.
 
