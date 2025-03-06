@@ -1,8 +1,8 @@
-# [Sharath Chandra, the Awesome](https://sca.run)
+# [Sharath Chandra, the Awesome](https://sca.run/chronicle)
 
-> **Veritus** • **SaaS Labs** • **IIT Hyderabad** • ~ Adventuring since 2020 ~
+> Code Wizard at Veritus | Former Spell-Caster at SaaS Labs | Survived IIT Hyderabad | Typing furiously since 2020
 >
-> Bestows blessings in TypeScript, summons Docker minions, conjures LLM spells. Always honing the code sword for maintainable repositories.
+> Slinging TypeScript spells, taming distributed systems dragons, herding Docker containers, and whispering to LLMs when they get temperamental. Making codebases so type-safe they could survive nuclear war.
 
 [![sca.run](https://img.shields.io/badge/website-sca.run-red?style=for-the-badge)](https://sca.run/)
 [![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
@@ -15,7 +15,7 @@
 
 ---
 
-Bravely aiding code guilds with contributions:
+## The Legend of Open Source Quests
 
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
@@ -24,152 +24,138 @@ Bravely aiding code guilds with contributions:
 
 ---
 
-## Tech Arsenal
+## Magical Arsenal
 
-**Legendary Mastery** | React, TypeScript, NodeJS, Docker  
+**Weapons of Choice** | React (like a ninja), TypeScript (with pinpoint accuracy), NodeJS (because who needs sleep), Docker (container wrangler extraordinaire)
 
-**Solid Skills** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind  
+**Trusty Sidekicks** | NoSQL (data whisperer), NextJS (because regular React is too mainstream), Vite (speed demon), Vitest (bug exterminator), Puppeteer (chrome tamer), Tailwind (CSS without tears)
 
-**Preferred Potions** | Svelte, Astro, LangChain, React Native, Cloudflare, Vercel  
+**Secret Crushes** | Svelte (the cool kid), Astro (star-gazer), LangChain (AI conductor), React Native (phone enchanter), Cloudflare (shield bearer), Vercel (deployment sorcery)
 
 ---
 
-## Main Quests
+## Adventures in Employment
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
 
-**Senior Software Development Engineer** | Tasked with epic side quests in rapid experimentation and workflow fortification.
+**Senior Software Development Wizard** | Making computers do impossible things while management isn't looking.
 
-- **Next** | Cast a grand codebase reboot using TypeScript to ensure type-safety. Summoned Sentry and UptimeRobot for swift problem-slaying, achieving 100x resolution speed.
+- **The Next Saga** | Performed necromancy on a dead codebase, transforming it into a TypeScript monorepo so type-safe it makes the compiler blush. Installed digital smoke detectors (Sentry) and heartbeat monitors (UptimeRobot) so we know when things catch fire. Connected money tubes (Stripe) for that sweet, sweet revenue.
 
-  - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
+  - NextJS, tRPC, Mongoose, LangChain, Tailwind, PostHog, CI/CD, Stripe
 
-- **Search** | Forging a scientific research–friendly search engine with agentic powers.
+- **The Search Chronicles** | Built a bibliomancer's dream: a search engine that can find your academic paper needle in a 3TB haystack. Makes Google Scholar look like a kid with a magnifying glass.
 
-  - OpenSearch, LangGraph, Web scraping
+  - OpenSearch, Cohere, Embeddings, AWS Lambda, Python, Docker, Vector Search
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
-**Software Development Engineer (SDEII)** | Full-Stack crusader and big decision-maker across multiple realms
+**Software Development Enchanter (SDEII)** | Conjuring digital experiences and occasionally making good decisions.
 
-- **Apex** | The next-gen interface for JustCall’s front lines
+- **Project Apex** | Created a UI so next-gen it made the previous gen cry. JustCall has never looked so pretty.
 
   - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
 
-- **AI Notetaker** | A bot minion that joins meetings, collects intel, conjures highlights and summaries
+- **AI Meeting Crasher** | Taught robots to join Zoom meetings, take better notes than humans, and summarize conversations without falling asleep. The first AI to perfect the "I'm totally paying attention" head nod.
 
   - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Distributed systems
 
-- **Search** | Wielding a multi-product search engine for JustCall campaigns
+- **Search Wizardry** | Built a search engine that could find things across multiple products. Like Google, but for just one company, so infinitely less impressive but still pretty cool.
 
   - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
 
 ### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
 
-**Full-Stack Developer Intern** | Learned the arcane arts of merge-conflict banishment and team synergy.
+**Full-Stack Apprentice** | Learned the ancient art of git conflict resolution and human cooperation.
 
-- Created an internal dashboard and Google Drive–like feature.
+- Built an internal dashboard that made spreadsheets obsolete and a Google Drive knockoff that made actual Google Drive seem overrated.
 
   - React, Webpack, NodeJS, ExpressJS
 
 ---
 
-## Side Quests
+## Freelance Heroics
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
-**DevOps Engineer** | Hostel room management quest for IIT Hyderabad, with type-safe wizardry for durable upkeep.
+**DevOps Mercenary** | Created a hostel room management system that prevented civil wars over who gets which room. Made code so type-safe it could survive freshman orientation.
 
 - React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
 
 ### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Lead Developer** | Commanded a full-scale blade-for-hire approach, peaking at 3 TB monthly traffic
+**Lead Digital Pandemic Fighter** | Led a team tracking invisible enemies. Scaled to 3 TB of traffic, mostly people checking if they could go outside yet.
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
 ### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
 
-**Web Developer** | Built a grand fortress for recruiters and students to ensure placements run smoothly
+**Web Development Savior** | Created the digital matchmaker between desperate students and choosy recruiters. Built from nothing, like the universe, but with more JavaScript errors.
 
 - React, JavaScript, MaterialUI, NodeJS, Express, MySQL
 
 ---
 
-## Solo Quests
+## Side Quest Projects
 
-- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A magical interface to manage dev tools
+- **[gai](https://github.com/tnfssc/gai)** | AI command generator so fast it answers before you finish typing.
 
-  - Tauri, Linux, GitHub Actions, React, React Query
+  - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
 
-- **[Self-hosted](https://www.sharath.uk/self-hosted)** | Services conjured on a VPS cluster
+- **[sca.run](https://www.sca.run)** | My blog where I pretend to know things.
+
+  - Astro, Remark, TypeScript
+
+- **[Self-hosted](https://www.sharath.uk/self-hosted)** | Running my own services because I don't trust "the cloud" (it's just someone else's computer).
 
   - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
 
-- **[Terminova (defunct)](https://terminova.dev)** | Predictive hints in a mystical terminal realm, felled by mightier foes
-
-  - Rust, TypeScript, Tauri, Wails, Go, OpenAI
-
 <details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click for the extended universe]</summary>
 
-- **[sharath.uk](https://sharath.uk/)** | Valiant personal stronghold
-
-  - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
-
-- **[blog.sharath.uk](https://blog.sharath.uk/)** | A trove of secret knowledge
-
-  - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
-
-- **[neko](https://neko.sharath.uk/)** | Prophecy generator with slow HTML incantations
-
-  - LangChain, Deno, HTML
-
-- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | Tools management desktop app, re-listed for clarity
-
-  - Tauri, Linux, GitHub Actions, React, React Query
-
-- **[Youtube summarizer](https://www.sharath.uk/youtube-summarizer)** | Summon video rundowns
-
-  - Cloudflare Workers, LangChain, Hono, Streams
-
-- **[Ask](https://www.sharath.uk/ask)** | Summon LLM answers straight in your browser
-
-  - MLC WebLLM, LangChain
-
-- **[URL shortener](https://www.sharath.uk/shortener)** | Chop URLs into short artifacts
-
-  - Cloudflare Workers, Turso, SQLite, Drizzle
-
-- **Upload to CDN** | Offer files tribute to a CDN, receive a link in return
-
-  - Cloudflare Workers, Cloudflare R2
-
-- **[Code server](https://github.com/tnfssc/code-server)** | Docker vessel for dev incantations
-
-  - Docker, asdf, GitHub Actions
-
-- **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Reinvented multi-hero board game with wild overrides
-
-  - React, TypeScript, TailwindCSS, Vercel
-
-- **[maaybe](https://github.com/tnfssc/maaybe)** | “Maybe” illusions in TypeScript
+- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces uncertainty to TypeScript because programming wasn't anxiety-inducing enough.
 
   - TypeScript, GitHub Actions, NPM, Jest
 
-- **[gai](https://github.com/tnfssc/gai)** | Swift AI command conjurer in Go
+- **[Terminova (defunct)](https://terminova.dev)** | Terminal app that tried to read your mind. Discontinued when it realized it couldn't.
 
-  - Go, LangChain, OpenAI, GitHub Actions
+  - Rust, TypeScript, Tauri, Wails, Go, OpenAI
 
-- **[sca.run](https://www.sca.run)** | Coming soon, mysteries await!
-- **[s3.sca.run](https://s3.sca.run)** | Also in the works
+- **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Tic Tac Toe for people who found regular Tic Tac Toe too intellectually limiting.
+
+  - React, TypeScript, TailwindCSS, Vercel
+
+- **[sharath.uk](https://sharath.uk/)** | More than a personal website, it's a digital shrine to my ego.
+
+  - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
+
+- **[neko](https://neko.sharath.uk/)** | Nonsense generator for when you need to sound smart in meetings.
+
+  - LangChain, Deno, HTML
+
+- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | Desktop app for managing tools that manage tools that manage tools.
+
+  - Tauri, Linux, GitHub Actions, React, React Query
+
+- **[URL shortener](https://www.sharath.uk/shortener)** | Makes long URLs short, because brevity is wit.
+
+  - Cloudflare Workers, Turso, SQLite, Drizzle
+
+- **Upload to CDN** | Like Dropbox, but with 100% more "I made this myself".
+
+  - Cloudflare Workers, Cloudflare R2
+
+- **[Code server](https://github.com/tnfssc/code-server)** | VS Code in a Docker container because local installations are too mainstream.
+
+  - Docker, asdf, GitHub Actions
 
 </details>
 
 ---
 
-## Sanctum
+## The Academic Chapter
 
 ### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (2018 - 2022)
 
-**Bachelor of Technology in Engineering Science** | Mastered the secrets of Software Engineering, Operating Systems, and more magical domains.
+**Bachelor of Technology in Engineering Science** | Learned how computers think, networks talk, and operating systems argue. Also built drones that barely flew, logic circuits that occasionally worked, and IoT devices that mostly spied on me.
+
