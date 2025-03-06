@@ -98,28 +98,36 @@ Open source contributions
 
 ## Projects
 
-- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
+- **[gai](https://github.com/tnfssc/gai)** | The fastest AI command generator
 
-  - Tauri, Linux, GitHub Actions, React, React Query
+  - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
+
+- **[sca.run](https://www.sca.run)** | My blog
+
+  - Astro, Remark, TypeScript
 
 - **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
 
   - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
 
+<details>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
+
+- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
+
+  - TypeScript, GitHub Actions, NPM, Jest
+
 - **[Terminova (defunct)](https://terminova.dev)** | Predictive autocomplete in a terminal app. Discontinued due to advanced competition.
 
   - Rust, TypeScript, Tauri, Wails, Go, OpenAI
 
-<details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
+- **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Reimagined Tic Tac Toe with overrides, 8 players, and a massive board.
+
+  - React, TypeScript, TailwindCSS, Vercel
 
 - **[sharath.uk](https://sharath.uk/)** | More than a personal website
 
   - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
-
-- **[blog.sharath.uk](https://blog.sharath.uk/)** | Just a blog (with secret knowledge)
-
-  - Astro, TailwindCSS, MDX, React, TypeScript, Cloudflare, Full-text search, Image optimization, Knowledge
 
 - **[neko](https://neko.sharath.uk/)** | Non-sense generator. HTML streaming and slow page layout rendering.
 
@@ -128,14 +136,6 @@ Open source contributions
 - **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
 
   - Tauri, Linux, GitHub Actions, React, React Query
-
-- **[Youtube summarizer](https://www.sharath.uk/youtube-summarizer)** | Put a link and get a summary of the video
-
-  - Cloudflare Workers, LangChain, Hono, Streams
-
-- **[Ask](https://www.sharath.uk/ask)** | Load LLMs into your browser and ask questions
-
-  - MLC WebLLM, LangChain
 
 - **[URL shortener](https://www.sharath.uk/shortener)** | Shorten long URLs
 
@@ -148,22 +148,6 @@ Open source contributions
 - **[Code server](https://github.com/tnfssc/code-server)** | Docker image for VS Code and development tools
 
   - Docker, asdf, GitHub Actions
-
-- **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Reimagined Tic Tac Toe with overrides, 8 players, and a massive board.
-
-  - React, TypeScript, TailwindCSS, Vercel
-
-- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
-
-  - TypeScript, GitHub Actions, NPM, Jest
-
-- **[gai](https://github.com/tnfssc/gai)** | Blazingly fast AI command generator made with Go
-
-  - Go, LangChain, OpenAI, GitHub Actions
-
-- **[sca.run](https://www.sca.run)** | Coming soon
-
-- **[s3.sca.run](https://s3.sca.run)** | Coming soon
 
 </details>
 
