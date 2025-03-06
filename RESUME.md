@@ -44,9 +44,9 @@ Open source contributions
 
   - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
 
-- **Search** | Building an agentic search engine optimized for scientific research.
+- **Search** | Search for papers from a massive 3TB of data. 3x more relevant results than Google Scholar
 
-  - OpenSearch, LangGraph, Web scraping
+  - OpenSearch, Cohere, Embeddings, AWS Lambda, Python, Docker, Vector Search
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
