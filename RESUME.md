@@ -44,7 +44,7 @@ Open source contributions
 
   - NextJS, tRPC, Mongoose, LangChain, Tailwind, CI/CD
 
-- **Search** | Search for papers from a massive 3TB of data. 3x more relevant results than Google Scholar
+- **Search** | Search for papers from a massive 3TB of data. 3x more relevant results than Google Scholar.
 
   - OpenSearch, Cohere, Embeddings, AWS Lambda, Python, Docker, Vector Search
 
