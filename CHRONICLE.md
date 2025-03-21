@@ -1,8 +1,8 @@
-# [Sharath Chandra, the Awesome](https://sca.run/chronicle)
+# [Sharizzle My Snizzle](https://sca.run)
 
-> Code Wizard at Veritus | Former Spell-Caster at SaaS Labs | Survived IIT Hyderabad | Typing furiously since 2020
+> Senior software gyatt turbo Δ | Skibidi Web, RizzGPT, Yeet the Cloud, Sigma Docker
 >
-> Slinging TypeScript spells, taming distributed systems dragons, herding Docker containers, and whispering to LLMs when they get temperamental. Making codebases so type-safe they could survive nuclear war.
+> Veritus | SaaS Labs | IITH | Cooking since 2020
 
 [![sca.run](https://img.shields.io/badge/website-sca.run-red?style=for-the-badge)](https://sca.run/)
 [![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
@@ -15,7 +15,7 @@
 
 ---
 
-## The Legend of Open Source Quests
+✨ Open gyatt salt bae
 
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
@@ -24,138 +24,124 @@
 
 ---
 
-## Magical Arsenal
+## 💻 Rizz++
 
-**Weapons of Choice** | React (like a ninja), TypeScript (with pinpoint accuracy), NodeJS (because who needs sleep), Docker (container wrangler extraordinaire)
+**Sibidi pro** | React, TypeScript, NodeJS, Docker
 
-**Trusty Sidekicks** | NoSQL (data whisperer), NextJS (because regular React is too mainstream), Vite (speed demon), Vitest (bug exterminator), Puppeteer (chrome tamer), Tailwind (CSS without tears)
+**Kinda skibidi** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind, LangChain.js
 
-**Secret Crushes** | Svelte (the cool kid), Astro (star-gazer), LangChain (AI conductor), React Native (phone enchanter), Cloudflare (shield bearer), Vercel (deployment sorcery)
-
----
-
-## Adventures in Employment
-
-### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
-
-**Senior Software Development Wizard** | Making computers do impossible things while management isn't looking.
-
-- **The Next Saga** | Performed necromancy on a dead codebase, transforming it into a TypeScript monorepo so type-safe it makes the compiler blush. Installed digital smoke detectors (Sentry) and heartbeat monitors (UptimeRobot) so we know when things catch fire. Connected money tubes (Stripe) for that sweet, sweet revenue.
-
-  - NextJS, tRPC, Mongoose, LangChain, Tailwind, PostHog, CI/CD, Stripe
-
-- **The Search Chronicles** | Built a bibliomancer's dream: a search engine that can find your academic paper needle in a 3TB haystack. Makes Google Scholar look like a kid with a magnifying glass.
-
-  - OpenSearch, Cohere, Embeddings, AWS Lambda, Python, Docker, Vector Search
-
-### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
-
-**Software Development Enchanter (SDEII)** | Conjuring digital experiences and occasionally making good decisions.
-
-- **Project Apex** | Created a UI so next-gen it made the previous gen cry. JustCall has never looked so pretty.
-
-  - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
-
-- **AI Meeting Crasher** | Taught robots to join Zoom meetings, take better notes than humans, and summarize conversations without falling asleep. The first AI to perfect the "I'm totally paying attention" head nod.
-
-  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Distributed systems
-
-- **Search Wizardry** | Built a search engine that could find things across multiple products. Like Google, but for just one company, so infinitely less impressive but still pretty cool.
-
-  - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
-
-### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
-
-**Full-Stack Apprentice** | Learned the ancient art of git conflict resolution and human cooperation.
-
-- Built an internal dashboard that made spreadsheets obsolete and a Google Drive knockoff that made actual Google Drive seem overrated.
-
-  - React, Webpack, NodeJS, ExpressJS
+**Stan alert** | Svelte, Astro, LangChain, Cloudflare, Vercel
 
 ---
 
-## Freelance Heroics
+## 📈 Moolah moves
 
-### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
+### [Veritus](https://www.veritus.ai/) (σ Д σ since Aug 2024)
 
-**DevOps Mercenary** | Created a hostel room management system that prevented civil wars over who gets which room. Made code so type-safe it could survive freshman orientation.
+**Senior software gyatt turbo Δ** | Solo queue boost (think Turbo Tax meets CoD)
 
-- React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
+- **Literature Review** | Built OG skibidi database using ElasticΔrushIndexer+ with 220M leets. 3× gyatt than Google's Ohio action.
 
-### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
+  - ElasticTakse, BAGUETTE🛑(Bun), PythonBEANS🍍
 
-**Lead Digital Pandemic Fighter** | Led a team tracking invisible enemies. Scaled to 3 TB of traffic, mostly people checking if they could go outside yet.
+- **Custom AI models** | AWS EC2 summoner - 100× more sigma coins vs Cohere tax
 
-- NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
+  - Dockerized Buymeacoffee.py ☕️, Lambda ∞ math , ECR (with rizzenue rating)
 
-### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
+- **Payment system** | Stripe hookups - single sigma rizz AND recurring simp mode
 
-**Web Development Savior** | Created the digital matchmaker between desperate students and choosy recruiters. Built from nothing, like the universe, but with more JavaScript errors.
+  - Stripe OnlyFans API😳, NextJS (skibidi math), Credit audimax🍯
 
-- React, JavaScript, MaterialUI, NodeJS, Express, MySQL
+- **Manuscript Review** | Paper crucking + AI gyatt slaps. 90% speedrun approved 💀
+
+  - LangSigmaChain 🌀, STONKS search algo, PDF skibification
+
+- **PDF QnA** | Upload PDF → Subset your rizzler assistant PEAK SKIBIDI DAPPER
+
+  - Ligma cohere-engine🖖, Pincher namespace, SSE (simp streaming events)
+
+- **Team gyatt 3X💨** | Juiced workflow (Sentry OG moves + Vercel headpats)
+
+  - TypeSigma, ESlint🥛, Meow Actions, Docker @ 300% speed
+
+- **Re-rizzlecture** | Clean MERN → tRPC sigma grindset ➕ NextJS cessna (endgame typez)
+
+  - Tailwinder squad assemble 🦸♂️, Redis EdgeCalc
+
+### [SaaS Labs](https://www.saaslabs.co/) (June 2022 - Sigma '24)
+
+**Software gyatt turbo (σ edition)** | Flexing front/back/stack rizz daily
+
+- **Apex** | JustCall rewrite's sigma founder to PHP → SkibidiJS stack 3000+
+
+  - React+Remix sunrise🐣, Docker+Kubernetes dad vibes🐳, NestJS🥇
+
+- **Search** | FullY.A.B. ur entire data, saves 30% customer suss checks
+
+  - Microfrontend(smash), Node sigma movelist🛹, Algolia Pachinko ↔️
+
+- **JustCall iQ migration** | PHP5 → PHP8 Ωmax (kubernetes unlocked)
+
+  - Cringe PHP to Sigma PHP 🗿, Volume Docker (with math <3)
+
+- **AI Notetaker** | Meetings on autopilot detected ☑️
+
+  - Puppeteer sigma overtake🤖, Redis drop shipping data cap ÷2×🎈
 
 ---
 
-## Side Quest Projects
+## 🧌 Side Skibidi
 
-- **[gai](https://github.com/tnfssc/gai)** | AI command generator so fast it answers before you finish typing.
+### [htOS](https://htos-demo.sharath.uk/)
 
-  - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
+**DevOnox faαm** | Hostel SIMulator 2024 (type-safe sigma anthem%)
 
-- **[sca.run](https://www.sca.run)** | My blog where I pretend to know things.
+- Blitz DustVariables, AuthType OmegaLUL 🛡️
 
-  - Astro, Remark, TypeScript
+### [COVID19Tracker](https://c19-react.pages.dev/)
 
-- **[Self-hosted](https://www.sharath.uk/self-hosted)** | Running my own services because I don't trust "the cloud" (it's just someone else's computer).
+**Lead Senpai** | 3TERABYTE fanum tax collection approved
 
-  - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
+- Cloudfire wheelie bin real 🤯, CentoLIVE sus runtime🚑 DO NOT LEAK!!
+
+---
+
+## σ SIDE QUESTZ
+
+- **[Katt Williams AI](https://github.com/tnfssc/gai)** | Sigma command cannon (Faster than u)
+
+  - Go 🏎️, LangChain fury, GitHub Motion Picture ®️
+
+- **[skibidiblog.run](https://www.sca.run)** | His saga
+
+  - AstroTactical, ReMARKable (tf is that)
+
+- **[Self-hosted++](https://www.sharath.uk/self-hosted)** | Damon Albarn server cloud
+
+  - Docker swarmfish🐟, Oracle's chicken tenders🍗, Linux stalker
 
 <details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click for the extended universe]</summary>
 
-- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces uncertainty to TypeScript because programming wasn't anxiety-inducing enough.
+  <summary>💀 Hidden skibidiposts [click to Ohio]</summary>
 
-  - TypeScript, GitHub Actions, NPM, Jest
+- **[maYASS](https://github.com/tnfssc/maaybe)** | Maybe TypeScript without simping
 
-- **[Terminova (defunct)](https://terminova.dev)** | Terminal app that tried to read your mind. Discontinued when it realized it couldn't.
+  - TypeSigma += Maybe<Chad>, Jest autograder
 
-  - Rust, TypeScript, Tauri, Wails, Go, OpenAI
+- **[Tic-Tac-Σ](https://t3p.tnfssc.vercel.app/)** | Tic Tac Toe maxxed (8 player FFA baybee)
 
-- **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Tic Tac Toe for people who found regular Tic Tac Toe too intellectually limiting.
+  - React + α l0v3, Tailwindex
 
-  - React, TypeScript, TailwindCSS, Vercel
+- **[neko.skibidihouse](https://neko.sharath.uk/)** | Markov chain dumpster (streaming so flush 😤)
 
-- **[sharath.uk](https://sharath.uk/)** | More than a personal website, it's a digital shrine to my ego.
-
-  - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
-
-- **[neko](https://neko.sharath.uk/)** | Nonsense generator for when you need to sound smart in meetings.
-
-  - LangChain, Deno, HTML
-
-- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | Desktop app for managing tools that manage tools that manage tools.
-
-  - Tauri, Linux, GitHub Actions, React, React Query
-
-- **[URL shortener](https://www.sharath.uk/shortener)** | Makes long URLs short, because brevity is wit.
-
-  - Cloudflare Workers, Turso, SQLite, Drizzle
-
-- **Upload to CDN** | Like Dropbox, but with 100% more "I made this myself".
-
-  - Cloudflare Workers, Cloudflare R2
-
-- **[Code server](https://github.com/tnfssc/code-server)** | VS Code in a Docker container because local installations are too mainstream.
-
-  - Docker, asdf, GitHub Actions
+  - LangChaintano reset, Deno, HTML
 
 </details>
 
 ---
 
-## The Academic Chapter
+## 📚 Sigma U
 
-### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (2018 - 2022)
+### [IITH](https://www.iith.ac.in/)
 
-**Bachelor of Technology in Engineering Science** | Learned how computers think, networks talk, and operating systems argue. Also built drones that barely flew, logic circuits that occasionally worked, and IoT devices that mostly spied on me.
-
+**B.Tech sigma Grindset** | Coding 360 no scope 💯

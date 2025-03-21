@@ -1,8 +1,8 @@
 # [Sharath](https://sca.run/resume)
 
-> Veritus | SaaS Labs | IIT Hyderabad | Working since 2020
+> Senior Software Development Engineer | Web, LLMs, Cloud, Docker
 >
-> TypeScript, Distributed systems, Docker, LLMs. Building type-safe and maintainable code repositories.
+> Veritus | SaaS Labs | IIT Hyderabad | Crafting since 2020
 
 [![sca.run](https://img.shields.io/badge/website-sca.run-red?style=for-the-badge)](https://sca.run/)
 [![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
@@ -28,9 +28,9 @@ Open source contributions
 
 **Great with** | React, TypeScript, NodeJS, Docker
 
-**Good with** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind
+**Good with** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind, LangChain.js
 
-**I like** | Svelte, Astro, LangChain, React Native, Cloudflare, Vercel
+**I like** | Svelte, Astro, LangChain, Cloudflare, Vercel
 
 ---
 
@@ -38,31 +38,55 @@ Open source contributions
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
 
-**Senior Software Development Engineer** | Rapid experimentation and hyper-optimized workflows.
+**Senior Software Development Engineer** | Spearheading all software development at Veritus
 
-- **Next** | Rebooted the entire codebase into a full TypeScript monorepo with E2E type-safety within weeks of joining. Took initiative in integrating services like Sentry and UptimeRobot, reducing problem resolution time by 100x and improving SLAs. Integrated PostHog analytics, Stripe payments and a few other services.
+- **Literature Review** | Built Literature Review tool backed by custom ElasticSearch database with over 220 million records. 3x more relevant results than Google Scholar using similarity search.
 
-  - NextJS, tRPC, Mongoose, LangChain, Tailwind, PostHog, CI/CD, Stripe
+  - ElasticSearch, Bun, Python
 
-- **Search** | Search for papers from a massive 3TB of data. 3x more relevant results than Google Scholar.
+- **Custom AI models** | Hosted custom AI models on AWS using Docker and Python. Upto 100x cheaper than using external services like Cohere.
 
-  - OpenSearch, Cohere, Embeddings, AWS Lambda, Python, Docker, Vector Search
+  - Docker, Python, AWS Lambda, ECR, GitHub Actions
+
+- **Payment system** | Architected and developed one-time and recurring payment systems for the platform. Counting credit usage and recharges using Stripe and subscriptions using Stripe.
+
+  - Stripe, Webhooks, NextJS, One-time payments, Recurring payments
+
+- **Manuscript Review** | Built Manuscript Review tool with AI-powered suggestions and feedback. Simplifies 90% of a research paper's review process.
+
+  - LangChain, Structured Output, ElasticSearch, SERP API, Remarked, PDF parsing
+
+- **PDF QnA** | Built a chatbot that can answer questions about an uploaded PDF.
+
+  - Pinecone, Cohere, LangChain, Server sent events, PDF parsing
+
+- **Team productivity improvement** | Made the team more than 2x productive by integrating various tools into the product development workflow.
+
+  - TypeScript, ESLint, Sentry, GitHub Actions, Vercel, Docker, LangFuse, NodeJS, EC2
+
+- **Rearchitecture** | Pitched, planned and completed a full rearchitecture of the codebase from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type-safety.
+
+  - NextJS, tRPC, Mongoose, Tailwind, Redis
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
-**Software Development Engineer (SDEII)** | Full-Stack dev and decision-maker for various projects
+**Software Development Engineer (SDEII)** | Played key roles for various frontend, backend and full-stack projects and features.
 
-- **Apex** | The next-gen user interface for JustCall
+- **Apex** | Kicked off the rewrite of the JustCall codebase, setting up various base structures, tools and practices. Moving from PHP on a single server to NestJS, Remix, TypeScript, OpenAPI, Docker and Kubernetes.
 
-  - React, Remix, TypeScript, TailwindCSS, Vite, Vitest, Docker
+  - React, Remix, NestJS, TypeScript, TailwindCSS, Vite, Vitest, Docker, Jenkins, SonarQube, MySQL
 
-- **AI Notetaker** | A bot that joins meetings, records them, generates the highlights and summary, and sends them to the user
+- **Search** | Built a full-text search engine for the JustCall product family. This reduced the load on customer support by 30% and improved the overall customer experience.
 
-  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Distributed systems
+  - Microfrontend, React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
 
-- **Search** | A search engine for multiple products under the JustCall brand
+- **JustCall iQ migration** | Migrated out JustCall iQ from JustCall codebase to a standalone service. Upgraded from PHP 5 to PHP 8. Moved to a Kubernetes based deployment.
 
-  - React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
+  - PHP, Docker, Kubernetes, Jenkins
+
+- **AI Notetaker** | Built a bot that joins meetings, records them, generates the highlights and summary, and sends them to the user.
+
+  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Redis, Bun, Distributed systems
 
 ### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
 
@@ -78,21 +102,21 @@ Open source contributions
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
-**DevOps Engineer** | Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
+**DevOps Engineer** | Built Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
 
-- React, NextJS, Blitz.js, PostgreSQL, NextAuth, Prisma
+- Blitz.js, TypeScript, PostgreSQL, NextAuth, Prisma
 
-### [covid19tracker.in (defunct)](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
+### [covid19tracker](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Lead Developer** | Lead the team of the entire project from initiation to deployment | Scaled to a peak 3 TB traffic per month
+**Lead Developer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
 ### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
 
-**Web Developer** | Web app where recruiters and students can interact with each other while the placement office moderates the entire flow. It is IITH's hiring platform | Built the web app from scratch and worked on the backend | Over 1000 active users.
+**Web Developer** | Built Frontend of IITH's placement platform. Moving from paper-based to digital, this platform reduced friction for companies, placement staff and the students by a large margin.
 
-- React, JavaScript, MaterialUI, NodeJS, Express, MySQL
+- React, JavaScript, NodeJS, Express, MySQL
 
 ---
 
@@ -127,19 +151,19 @@ Open source contributions
 
 - **[sharath.uk](https://sharath.uk/)** | More than a personal website
 
-  - React, TypeScript, UnoCSS, Vite, Firebase, Turso, SQLite, Drizzle
+  - Vite, TypeScript, UnoCSS, React, Firebase, Turso, Drizzle
 
 - **[neko](https://neko.sharath.uk/)** | Non-sense generator. HTML streaming and slow page layout rendering.
 
   - LangChain, Deno, HTML
 
-- **[dxup](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
+- **[dxup (deprecated)](https://blog.sharath.uk/blog/dxup-announcement/)** | A tools management desktop app
 
   - Tauri, Linux, GitHub Actions, React, React Query
 
 - **[URL shortener](https://www.sharath.uk/shortener)** | Shorten long URLs
 
-  - Cloudflare Workers, Turso, SQLite, Drizzle
+  - Turso, Cloudflare Workers, Drizzle
 
 - **Upload to CDN** | Upload files to a CDN and get a link
 
@@ -155,6 +179,6 @@ Open source contributions
 
 ## Education
 
-### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (2018 - 2022)
+### [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) (Aug 2018 - May 2022)
 
-**Bachelor of Technology in Engineering Science** | Software Engineering, Computer Networking, Operating Systems, Drones, Digital Logic Design, IoT
+**Bachelor of Technology in Engineering Science** | Software Engineering, Computer Networking, Operating Systems, Drones, Digital Logic Design, IoT and more
