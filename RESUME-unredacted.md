@@ -40,33 +40,33 @@ Open source contributions
 
 **Senior Software Development Engineer** | Spearheading all software development at Veritus
 
-- **Literature Review** | Built Literature Review tool backed by custom REDACTED database with over REDACTED records. 3x more relevant results than REDACTED.
+- **Literature Review** | Built Literature Review tool backed by custom ElasticSearch database with over 220 million records. 3x more relevant results than Google Scholar using similarity search.
 
-  - REDACTED
+  - ElasticSearch, Bun, Python
 
 - **Custom AI models** | Hosted custom AI models on AWS using Docker and Python. Upto 100x cheaper than using external services like Cohere.
 
-  - REDACTED
+  - Docker, Python, AWS Lambda, ECR, GitHub Actions
 
-- **Payment system** | Architected and developed one-time and recurring payment systems for the platform. Counting subscriptions, credit usage and recharges using Stripe.
+- **Payment system** | Architected and developed one-time and recurring payment systems for the platform. Counting credit usage and recharges using Stripe and subscriptions using Stripe.
 
-  - REDACTED
+  - Stripe, Webhooks, NextJS, One-time payments, Recurring payments
 
 - **Manuscript Review** | Built Manuscript Review tool with AI-powered suggestions and feedback. Simplifies 90% of a research paper's review process.
 
-  - REDACTED
+  - LangChain, Structured Output, ElasticSearch, SERP API, Remarked, PDF parsing
 
 - **PDF QnA** | Built a chatbot that can answer questions about an uploaded PDF.
 
-  - REDACTED
+  - Pinecone, Cohere, LangChain, Server sent events, PDF parsing
 
 - **Team productivity improvement** | Made the team more than 2x productive by integrating various tools into the product development workflow.
 
-  - REDACTED
+  - TypeScript, ESLint, Sentry, GitHub Actions, Vercel, Docker, LangFuse, NodeJS, EC2
 
-- **Rearchitecture** | Pitched, planned and completed a full rearchitecture of the codebase from multi-repo REDACTED stack with JS to a monorepo with REDACTED and TypeScript with end-to-end type-safety.
+- **Rearchitecture** | Pitched, planned and completed a full rearchitecture of the codebase from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type-safety.
 
-  - REDACTED
+  - NextJS, tRPC, Mongoose, Tailwind, Redis
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
