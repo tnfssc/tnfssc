@@ -102,13 +102,13 @@ Open source contributions
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
 
-**DevOps Engineer** | Built Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
+**Lead Developer** | Built Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
 
 - Blitz.js, TypeScript, PostgreSQL, NextAuth, Prisma
 
 ### [covid19tracker](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Lead Developer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
+**DevOps Engineer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
