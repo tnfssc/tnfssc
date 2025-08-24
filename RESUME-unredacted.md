@@ -16,7 +16,7 @@
 
 Open source contributions
 
-[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)](https://github.com/kortix-ai/suna)
+[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)]([https://github.com/kortix-ai/suna](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed))
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
 [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
