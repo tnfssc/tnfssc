@@ -1,22 +1,22 @@
-# [Sharath](https://sca.run)
+# [Sharath](https://sharath.boi.gg)
 
-> Senior Software Development Engineer | Web, LLMs, Cloud, Docker
+> Contributing code since 2020
 >
-> Veritus | SaaS Labs | IIT Hyderabad | Crafting since 2020
+> Writer | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
-[![sca.run](https://img.shields.io/badge/website-sca.run-red?style=for-the-badge)](https://sca.run/)
-[![sca.run/blog](https://img.shields.io/badge/blog-sca.run%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
+[![sharath.boi.gg](https://img.shields.io/badge/website-sharath.boi.gg-red?style=for-the-badge)](https://sca.run/)
+[![sharath.boi.gg/blog](https://img.shields.io/badge/blog-sharath.boi.gg%2Fblog-green?style=for-the-badge)](https://sca.run/blog/)
 [![sharath.uk](https://img.shields.io/badge/void-sharath.uk-blue?style=for-the-badge)](https://sharath.uk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&color=black&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/tnfssc/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&color=black)](https://github.com/tnfssc)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&color=black)](https://twitter.com/tnfssc)
-[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=maildotru&color=black)](mailto:admin@sharath.uk)
 
 ---
 
 Open source contributions
 
+[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)](https://github.com/kortix-ai/suna)
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
 [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
@@ -24,21 +24,15 @@ Open source contributions
 
 ---
 
-## Technology
-
-**Great with** | React, TypeScript, NodeJS, Docker
-
-**Good with** | NoSQL, NextJS, Vite, Vitest, Puppeteer, Tailwind, LangChain.js
-
-**I like** | Svelte, Astro, LangChain, Cloudflare, Vercel
-
----
-
 ## Employment
 
-### [Veritus](https://www.veritus.ai/) (Aug 2024 - now)
+### [Writer](https://www.writer.com/) (Aug 2025 - Present)
 
-**Senior Software Development Engineer** | Spearheading all software development at Veritus
+**Full Stack AI Engineer** | TBA
+
+### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
+
+**Senior Software Development Engineer** | Spearheaded all software development at Veritus
 
 - **Literature Review** | Built Literature Review tool backed by custom ElasticSearch database with over 220 million records. 3x more relevant results than Google Scholar using similarity search.
 
@@ -88,19 +82,17 @@ Open source contributions
 
   - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Redis, Bun, Distributed systems
 
-### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
-
-**Full-Stack Developer Intern** | Learnt to resolve merge conflicts and working with a team.
-
-- Built internal dashboard and a Google Drive like feature.
-
-  - React, Webpack, NodeJS, ExpressJS
-
 ---
 
 ## Freelance
 
-### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - July 2022)
+### [Kortix](https://kortix.ai/) (May 2025 - Aug 2025)
+
+**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix SDK for Python. Setup full CI/CD on Hetzner. Added a lot more features and fixes.
+
+- Python, TypeScript, Docker, Daytona, Supabase, Swarm, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
+
+### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - Jul 2022)
 
 **Lead Developer** | Built Hostel room management system for IIT Hyderabad | E2E type-safe codebase, designed for long term maintenance.
 
@@ -112,6 +104,12 @@ Open source contributions
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
+### [StoryXpress](https://storyxpress.co/) (Jul 2020 - Sep 2020)
+
+**Full-Stack Developer Intern** | Learnt to resolve merge conflicts and working with a team. Built internal dashboard and a Google Drive like feature.
+
+  - React, Webpack, NodeJS, ExpressJS
+
 ### [Office of Career Services](https://ocs.iith.ac.in/) (Feb 2020 - Apr 2021)
 
 **Web Developer** | Built Frontend of IITH's placement platform. Moving from paper-based to digital, this platform reduced friction for companies, placement staff and the students by a large margin.
@@ -122,24 +120,24 @@ Open source contributions
 
 ## Projects
 
+- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
+
+  - TypeScript, GitHub Actions, NPM, Jest
+
+- **[sharath.boi.gg](https://www.sharath.boi.gg)** | My site
+
+  - Tanstack Start, TypeScript, Tailwind, Cloudflare Workers
+
 - **[gai](https://github.com/tnfssc/gai)** | The fastest AI command generator
 
   - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
 
-- **[sca.run](https://www.sca.run)** | My blog
-
-  - Astro, Remark, TypeScript
+<details>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
 
 - **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
 
   - Docker Swarm, Cloudflare Tunnel, Oracle Cloud Infrastructure, GlusterFS, SOPS, Linux
-
-<details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
-
-- **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
-
-  - TypeScript, GitHub Actions, NPM, Jest
 
 - **[Terminova (defunct)](https://terminova.dev)** | Predictive autocomplete in a terminal app. Discontinued due to advanced competition.
 
