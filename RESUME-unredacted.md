@@ -2,7 +2,7 @@
 
 > Contributing code since 2020
 >
-> Writer | Kortix | Veritus | SaaS Labs | IIT Hyderabad
+> TBA | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
 [![sharath.boi.gg](https://img.shields.io/badge/website-sharath.boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
 [![sharath.boi.gg/blog](https://img.shields.io/badge/blog-sharath.boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
