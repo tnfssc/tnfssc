@@ -26,7 +26,7 @@ Open source contributions
 
 ## Employment
 
-### [Writer](https://www.writer.com/) (Aug 2025 - Present)
+### [TBA](https://sharath.boi.gg) (Aug 2025 - Present)
 
 **Full Stack AI Engineer** | TBA
 
