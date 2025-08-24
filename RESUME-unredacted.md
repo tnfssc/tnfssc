@@ -2,7 +2,7 @@
 
 > Contributing code since 2020
 >
-> TBA | Kortix | Veritus | SaaS Labs | IIT Hyderabad
+> TBA | Kortix AI | Veritus | SaaS Labs | IIT Hyderabad
 
 [![sharath.boi.gg](https://img.shields.io/badge/website-sharath.boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
 [![sharath.boi.gg/blog](https://img.shields.io/badge/blog-sharath.boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
@@ -16,7 +16,7 @@
 
 Open source contributions
 
-[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)]([https://github.com/kortix-ai/suna](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed))
+[![Kortix AI](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix%20AI&color=black)]([https://github.com/kortix-ai/suna](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed))
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
 [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
@@ -86,9 +86,9 @@ Open source contributions
 
 ## Freelance
 
-### [Kortix](https://kortix.ai/) (May 2025 - Aug 2025)
+### [Kortix AI](https://kortix.ai/) (May 2025 - Aug 2025)
 
-**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix SDK for Python. Setup full CI/CD on Hetzner. Added a lot more features and fixes.
+**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Added a lot more features and fixes.
 
 - Python, TypeScript, Docker, Daytona, Supabase, Swarm, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
 
