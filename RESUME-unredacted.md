@@ -21,7 +21,6 @@ Open source contributions
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
 [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
-[![FluentUI](https://img.shields.io/github/stars/microsoft/fluentui?style=for-the-badge&logo=fluentd&label=FluentUI&color=blue)](https://github.com/microsoft/fluentui/pull/31854)
 
 ---
 
