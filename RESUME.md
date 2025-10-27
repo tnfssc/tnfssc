@@ -26,9 +26,9 @@ Open source contributions
 
 ## Employment
 
-### [TBA](https://sharath.boi.gg) (Aug 2025 - Present)
+### [TBA](https://boi.gg) (Aug 2025 - Present)
 
-**Full Stack AI Engineer** | TBA
+**Software Engineer GenAI** | Prompting agents, integrating MCPs and making it awesome
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
 
