@@ -90,7 +90,7 @@ Open source contributions
 
 **Member of Technical Staff** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
 
-- Python, TypeScript, Docker, Daytona, Supabase, Swarm, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
+- Python, TypeScript, Docker, Daytona, Supabase, Swarm, AWS, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
 
 ### [htOS](https://htos-demo.sharath.uk/) (Apr 2022 - Jul 2022)
 
@@ -120,24 +120,28 @@ Open source contributions
 
 ## Projects
 
-- **[Zevium](https://zevium.dev)** | WIP
+- **[zevium](https://zevium.dev)** | WIP
 
   - Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite
+
+- **[resumable-stream-python](https://github.com/kortix-ai/resumable-stream-python)** | Stream resumption for web streams in Python
+
+  - Python, Redis, PyTest, uv, GitHub Workflows, Web streams
+
+- **[boi.gg](https://www.sharath.boi.gg)** | my website, definitive edition
+
+  - Tanstack Start, TypeScript, Tailwind, Cloudflare Workers
+
+<details>
+  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
 
 - **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
 
   - TypeScript, GitHub Actions, NPM, Jest
 
-- **[sharath.boi.gg](https://www.sharath.boi.gg)** | My site
-
-  - Tanstack Start, TypeScript, Tailwind, Cloudflare Workers
-
 - **[gai](https://github.com/tnfssc/gai)** | The fastest AI command generator
 
   - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
-
-<details>
-  <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
 
 - **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
 
