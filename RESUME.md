@@ -120,6 +120,10 @@ Open source contributions
 
 ## Projects
 
+- **[Zevium](https://zevium.dev)** | WIP
+
+  - Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite
+
 - **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
 
   - TypeScript, GitHub Actions, NPM, Jest
