@@ -1,11 +1,13 @@
 # [Sharath](https://sharath.boi.gg)
 
-> Contributing code since 2020
+> Building next-gen software to make web and AI more accessible
 >
-> TBA | Kortix AI | Veritus | SaaS Labs | IIT Hyderabad
+> Python, TypeScript, Agents, MCP, Docker, React
+>
+> TBA | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
-[![sharath.boi.gg](https://img.shields.io/badge/website-sharath.boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
-[![sharath.boi.gg/blog](https://img.shields.io/badge/blog-sharath.boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
+[![boi.gg](https://img.shields.io/badge/website-boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
+[![boi.gg/blog](https://img.shields.io/badge/blog-boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
 [![sharath.uk](https://img.shields.io/badge/void-sharath.uk-blue?style=for-the-badge)](https://sharath.uk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&color=black&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/tnfssc/)
@@ -17,7 +19,7 @@
 
 Open source contributions
 
-[![Kortix AI](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix%20AI&color=black)](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed)
+[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed)
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
 [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
