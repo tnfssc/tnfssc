@@ -126,7 +126,7 @@ Open source contributions
 
 - **[resumable-stream-python](https://github.com/kortix-ai/resumable-stream-python)** | Stream resumption for web streams in Python
 
-  - Python, Redis, PyTest, uv, GitHub Workflows, Web streams
+  - Python, Redis, PyTest, uv, GitHub Actions, Web streams
 
 - **[boi.gg](https://www.sharath.boi.gg)** | my website, definitive edition
 
