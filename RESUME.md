@@ -88,7 +88,7 @@ Open source contributions
 
 ### [Kortix AI](https://kortix.ai/) (May 2025 - Aug 2025)
 
-**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Added a lot more features and fixes.
+**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
 
 - Python, TypeScript, Docker, Daytona, Supabase, Swarm, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
 
