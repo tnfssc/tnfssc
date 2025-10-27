@@ -1,4 +1,4 @@
-[![sharath.uk](https://github.com/user-attachments/assets/80f8bab1-294e-4949-87a4-4a4f0035ae5e)](https://sharath.boi.gg/)
+[![sharath.uk](https://github.com/user-attachments/assets/54e85d90-38f0-4fd2-aba0-d07b70c89617)](https://sharath.boi.gg/)
 
 [past work](https://sharath.boi.gg/past-work)
 
