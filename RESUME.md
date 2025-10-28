@@ -32,53 +32,21 @@ Open source contributions
 
 **Senior Software Development Engineer** | Spearheaded all software development at Veritus
 
-- **Literature Review** | Built Literature Review tool backed by custom ElasticSearch database with over 220 million records. 3x more relevant results than Google Scholar using similarity search.
-
-  - ElasticSearch, Bun, Python
-
-- **Custom AI models** | Hosted custom AI models on AWS using Docker and Python. Upto 100x cheaper than using external services like Cohere.
-
-  - Docker, Python, AWS Lambda, ECR, GitHub Actions
-
-- **Payment system** | Architected and developed one-time and recurring payment systems for the platform. Counting credit usage and recharges using Stripe and subscriptions using Stripe.
-
-  - Stripe, Webhooks, NextJS, One-time payments, Recurring payments
-
-- **Manuscript Review** | Built Manuscript Review tool with AI-powered suggestions and feedback. Simplifies 90% of a research paper's review process.
-
-  - LangChain, Structured Output, ElasticSearch, SERP API, Remarked, PDF parsing
-
-- **PDF QnA** | Built a chatbot that can answer questions about an uploaded PDF.
-
-  - Pinecone, Cohere, LangChain, Server sent events, PDF parsing
-
-- **Team productivity improvement** | Made the team more than 2x productive by integrating various tools into the product development workflow.
-
-  - TypeScript, ESLint, Sentry, GitHub Actions, Vercel, Docker, LangFuse, NodeJS, EC2
-
-- **Rearchitecture** | Pitched, planned and completed a full rearchitecture of the codebase from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type-safety.
-
-  - NextJS, tRPC, Mongoose, Tailwind, Redis
+- **Literature Review** | Backed by ElasticSearch with 220M+ records, 3TB+ data. 3x more relevant results than Google Scholar | _ElasticSearch, Bun, Python_
+- **Custom AI models** | Hosted on AWS using Docker and Python. Upto 100x cheaper than Cohere | _Docker, Python, AWS Lambda, ECR, GitHub Actions_
+- **Payment system** | Architected and developed one-time and recurring payment systems. Counting credit usage, recharges, subscriptions | _Stripe, Webhooks, NextJS_
+- **Manuscript Review** | AI-powered paper review tool. Simplifies 90% of a research paper's review process | _LangChain, ElasticSearch, Scraping, Markdown, Doc parsing_
+- **PDF Chat** | Chatbot that can answer questions about an uploaded PDF | _Pinecone, Cohere, LangChain, Web streams_
+- **DX upgrades** | Got 2x productivity gains by integrating various tools into dev cycle | _TypeScript, ESLint, Sentry, CI/CD, Vercel, Docker, LangFuse, NodeJS, EC2_
+- **Rearchitecture** | Full migration from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type-safety | _NextJS, tRPC, Mongoose, Tailwind, Redis_
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
 **Software Development Engineer (SDEII)** | Played key roles for various frontend, backend and full-stack projects and features.
 
-- **Apex** | Kicked off the rewrite of the JustCall codebase, setting up various base structures, tools and practices. Moving from PHP on a single server to NestJS, Remix, TypeScript, OpenAPI, Docker and Kubernetes.
-
-  - React, Remix, NestJS, TypeScript, TailwindCSS, Vite, Vitest, Docker, Jenkins, SonarQube, MySQL
-
-- **Search** | Built a full-text search engine for the JustCall product family. This reduced the load on customer support by 30% and improved the overall customer experience.
-
-  - Microfrontend, React, Vite, NodeJS, Shadow DOM, Algolia, Cheerio, Docker, Jenkins, Puppeteer, OpenAI
-
-- **JustCall iQ migration** | Migrated out JustCall iQ from JustCall codebase to a standalone service. Upgraded from PHP 5 to PHP 8. Moved to a Kubernetes based deployment.
-
-  - PHP, Docker, Kubernetes, Jenkins
-
-- **AI Notetaker** | Built a bot that joins meetings, records them, generates the highlights and summary, and sends them to the user.
-
-  - Puppeteer, NodeJS, Docker, Kubernetes, Whisper, LangChain, FFmpeg, Redis, Bun, Distributed systems
+- **Apex** | Kicked off rewrite of the JustCall codebase, setting up the base, tools and practices, moving away from PHP stack | _React, Remix, NestJS, TypeScript, TailwindCSS, Vitest, Docker_
+- **Search** | Built full-text search for JustCall product family with custom scrape, build and deploy pipelines | _Microfrontend, React, Vite, Shadow DOM, Algolia, Cheerio, Docker, Jenkins_
+- **AI Notetaker** | Built a bot that joins meetings, records and generates highlights | _Puppeteer, NodeJS, Docker, Kubernetes, FFmpeg, Redis, Bun_
 
 ---
 
@@ -124,28 +92,30 @@ Open source contributions
 
 ## Projects
 
-- **[zevium](https://zevium.dev)** | Open marketplace for random APIs
+- **[zevium](https://zevium.dev)** | Open marketplace for random APIs | Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite, mise
 
-  - Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite
+- **[resumable-stream-python](https://github.com/kortix-ai/resumable-stream-python)** | Stream resumption for web streams in Python | Python, Redis, PyTest, uv, GitHub Actions, Web streams
 
-- **[resumable-stream-python](https://github.com/kortix-ai/resumable-stream-python)** | Stream resumption for web streams in Python
-
-  - Python, Redis, PyTest, uv, GitHub Actions, Web streams
-
-- **[boi.gg](https://www.sharath.boi.gg)** | my website, definitive edition
-
-  - Tanstack Start, TypeScript, Tailwind, Cloudflare Workers
+- **[sharath.boi.gg](https://boi.gg)** | my website, definitive edition | Tanstack Start, TypeScript, Tailwind, Cloudflare Workers, mise
 
 <details>
   <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
 
+- **[gai](https://github.com/tnfssc/gai)** | The fastest ⚡ AI command generator
+
+  - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
+
+- **[@boi.gg/exception](https://github.com/boi-gg/exception)** | A tiny, typed and modular exception-handling library for TypeScript.
+
+  - tsdown, GitHub Actions, NPM, Vitest
+
+- **[@boi.gg/eslint-plugin-prefer-array-at](https://github.com/boi-gg/eslint-plugin-prefer-array-at)** | ESLint plugin to prefer `Array.prototype.at()` over traditional bracket indexing.
+
+  - tsdown, GitHub Actions, NPM, Vitest
+
 - **[maaybe](https://github.com/tnfssc/maaybe)** | A library that introduces the concept of "maybe" to TypeScript
 
   - TypeScript, GitHub Actions, NPM, Jest
-
-- **[gai](https://github.com/tnfssc/gai)** | The fastest AI command generator
-
-  - Go, LangChain, OpenAI, GitHub Actions, Docker, bash, pwsh
 
 - **[Self-hosted](https://www.sharath.uk/self-hosted)** | Self-hosted services running on a VPS cluster
 
