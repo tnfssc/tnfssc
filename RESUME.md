@@ -1,10 +1,10 @@
 # [Sharath](https://sharath.boi.gg)
 
-> Building next-gen software to make web and AI more accessible
+> Building next-gen software to make AI more accessible
 >
 > Python, TypeScript, Agents, MCP, Docker, React
 >
-> TBA | Kortix | Veritus | SaaS Labs | IIT Hyderabad
+> Writer | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
 [![boi.gg](https://img.shields.io/badge/website-boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
 [![boi.gg/blog](https://img.shields.io/badge/blog-boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
@@ -27,10 +27,6 @@ Open source contributions
 ---
 
 ## Employment
-
-### [TBA](https://boi.gg) (Aug 2025 - Present)
-
-**Software Engineer GenAI** | Prompting agents, integrating MCPs and making it awesome
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
 
@@ -88,9 +84,15 @@ Open source contributions
 
 ## Freelance
 
+### [Writer](https://writer.com/) (Aug 2025 - now)
+
+**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed slides skill. Many other fixes and minor features.
+
+- TypeScript, Python, Docker, Postgres, MCP
+
 ### [Kortix AI](https://kortix.ai/) (May 2025 - Aug 2025)
 
-**Member of Technical Staff** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
+**Software Engineer** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
 
 - Python, TypeScript, Docker, Daytona, Supabase, Swarm, AWS, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
 
@@ -102,7 +104,7 @@ Open source contributions
 
 ### [covid19tracker](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**DevOps Engineer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
+**Deployment Engineer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
@@ -122,7 +124,7 @@ Open source contributions
 
 ## Projects
 
-- **[zevium](https://zevium.dev)** | WIP
+- **[zevium](https://zevium.dev)** | Open marketplace for random APIs
 
   - Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite
 
