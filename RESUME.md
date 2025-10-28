@@ -19,10 +19,10 @@
 
 Open source contributions
 
-[![Kortix](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Kortix&color=black)](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed)
+[![Kortix Suna](https://img.shields.io/github/stars/kortix-ai/suna?style=for-the-badge&logo=kortix&label=Ж%20%20Suna&color=black)](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+is%3Aclosed)
 [![LangChain](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=for-the-badge&logo=langchain&label=LangChain&color=f5f5f5)](https://github.com/langchain-ai/langchainjs/pull/5637)
 [![React](https://img.shields.io/github/stars/facebook/react?style=for-the-badge&logo=react&label=React&color=5dabc0)](https://github.com/facebook/react/pull/30123)
-[![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs?style=for-the-badge&logo=reactivex&label=RxJS&color=purple)](https://github.com/ReactiveX/rxjs/pull/7487)
+[![Resumable Stream](https://img.shields.io/github/stars/kortix-ai/resumable-stream-python?style=for-the-badge&logo=kortix&label=Resumable%20Stream%20Python&color=pink)](https://github.com/kortix-ai/resumable-stream-python)
 
 ---
 
@@ -32,19 +32,19 @@ Open source contributions
 
 **Senior Software Development Engineer** | Spearheaded all software development at Veritus
 
-- **Literature Review** | Backed by ElasticSearch with 220M+ records, 3TB+ data. 3x more relevant results than Google Scholar | _ElasticSearch, Bun, Python_
-- **Custom AI models** | Hosted on AWS using Docker and Python. Upto 100x cheaper than Cohere | _Docker, Python, AWS Lambda, ECR, GitHub Actions_
+- **Literature Review** | Backed by Elasticsearch with 220M+ records, 3TB+ data. 3x more relevant results than Google Scholar | _Elasticsearch, Bun, Python_
+- **Custom AI models** | Hosted on AWS using Docker and Python. Up to 100x cheaper than Cohere | _Docker, Python, AWS Lambda, ECR, GitHub Actions_
 - **Payment system** | Architected and developed one-time and recurring payment systems. Counting credit usage, recharges, subscriptions | _Stripe, Webhooks, NextJS_
-- **Manuscript Review** | AI-powered paper review tool. Simplifies 90% of a research paper's review process | _LangChain, ElasticSearch, Scraping, Markdown, Doc parsing_
+- **Manuscript Review** | AI-powered paper review tool. Simplifies 90% of a research paper's review process | _LangChain, Elasticsearch, Scraping, Markdown, Doc parsing_
 - **PDF Chat** | Chatbot that can answer questions about an uploaded PDF | _Pinecone, Cohere, LangChain, Web streams_
-- **DX upgrades** | Got 2x productivity gains by integrating various tools into dev cycle | _TypeScript, ESLint, Sentry, CI/CD, Vercel, Docker, LangFuse, NodeJS, EC2_
-- **Rearchitecture** | Full migration from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type-safety | _NextJS, tRPC, Mongoose, Tailwind, Redis_
+- **DX upgrades** | Got 2x productivity gains by integrating various tools into dev cycle | _TypeScript, ESLint, Sentry, CI/CD, Vercel, Docker, Langfuse, NodeJS, EC2_
+- **Rearchitecture** | Full migration from multi-repo MERN stack with JS to a monorepo with tRPC, NextJS and TypeScript with end-to-end type safety | _NextJS, tRPC, Mongoose, Tailwind, Redis_
 
 ### [SaaS Labs](https://www.saaslabs.co/) (Jun 2022 - Aug 2024)
 
 **Software Development Engineer (SDEII)** | Played key roles for various frontend, backend and full-stack projects and features.
 
-- **Apex** | Kicked off rewrite of the JustCall codebase, setting up the base, tools and practices, moving away from PHP stack | _React, Remix, NestJS, TypeScript, TailwindCSS, Vitest, Docker_
+- **Apex** | Initiated rewrite of the JustCall codebase, setting up the base, tools and practices, moving away from PHP stack | _React, Remix, NestJS, TypeScript, Tailwind, Vitest, Docker_
 - **Search** | Built full-text search for JustCall product family with custom scrape, build and deploy pipelines | _Microfrontend, React, Vite, Shadow DOM, Algolia, Cheerio, Docker, Jenkins_
 - **AI Notetaker** | Built a bot that joins meetings, records and generates highlights | _Puppeteer, NodeJS, Docker, Kubernetes, FFmpeg, Redis, Bun_
 
@@ -54,13 +54,13 @@ Open source contributions
 
 ### [Writer](https://writer.com/) (Aug 2025 - now)
 
-**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed slides skill. Many other fixes and minor features.
+**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed Presentation skill. Many other fixes and minor features.
 
 - TypeScript, Python, Docker, Postgres, MCP
 
 ### [Kortix AI](https://kortix.ai/) (May 2025 - Aug 2025)
 
-**Software Engineer** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Setup full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
+**Software Engineer** | Made the application stable and scalable. Built the Kortix AI SDK for Python. Set up full CI/CD on Hetzner. Migrated everything to AWS. Added a lot more [features and fixes](https://github.com/kortix-ai/suna/pulls?q=is%3Apr+author%3Atnfssc+sort%3Aupdated-desc).
 
 - Python, TypeScript, Docker, Daytona, Supabase, Swarm, AWS, Pulumi, GitHub Actions, Redis, Stripe, AI Agents
 
@@ -72,7 +72,7 @@ Open source contributions
 
 ### [covid19tracker](https://c19-react.pages.dev/) (Sep 2021 - Dec 2021)
 
-**Deployment Engineer** | Scaled to a peak 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
+**Deployment Engineer** | Scaled to a peak of 3 TB traffic per month. Spearheaded the project development from initiation to deployment.
 
 - NodeJS, CDN, Cloudflare, GitHub Actions, Docker, PostgreSQL
 
@@ -127,7 +127,7 @@ Open source contributions
 
 - **[Tic Tac Toe Pro](https://t3p.tnfssc.vercel.app/)** | Reimagined Tic Tac Toe with overrides, 8 players, and a massive board.
 
-  - React, TypeScript, TailwindCSS, Vercel
+  - React, TypeScript, Tailwind, Vercel
 
 - **[sharath.uk](https://sharath.uk/)** | More than a personal website
 
