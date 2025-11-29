@@ -30,7 +30,7 @@ Open source contributions
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
 
-**Senior Software Development Engineer** | Spearheaded all software development at Veritus
+**Contract Senior Software Development Engineer** | Spearheaded all software development at Veritus
 
 - **Literature Review** | Backed by Elasticsearch with 220M+ records, 3TB+ data. 3x more relevant results than Google Scholar | _Elasticsearch, Bun, Python_
 - **Custom AI models** | Hosted on AWS using Docker and Python. Up to 100x cheaper than Cohere | _Docker, Python, AWS Lambda, ECR, GitHub Actions_
