@@ -54,7 +54,7 @@ Open source contributions
 
 ### [Writer](https://writer.com/) (Aug 2025 - now)
 
-**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed Presentation skill. Many other fixes and minor features.
+**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed Presentation skill. Developed Playbooks. Many other fixes and minor features.
 
 - TypeScript, Python, Docker, Postgres, MCP
 
