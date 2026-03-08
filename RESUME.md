@@ -28,6 +28,12 @@ Open source contributions
 
 ## Employment
 
+### [WRITER](https://writer.com/) (Aug 2025 - now)
+
+**Software Engineer** | Building Writer Agent
+
+- TypeScript, Python, Docker, Postgres, Restate, React
+
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
 
 **Contract Senior Software Development Engineer** | Spearheaded all software development at Veritus
@@ -51,12 +57,6 @@ Open source contributions
 ---
 
 ## Freelance
-
-### [Writer](https://writer.com/) (Aug 2025 - now)
-
-**Contract Software Engineer, Fullstack** | Integrated in-house Connectors MCP to agent. Migrated to AlloyDB. Integrated browser tools. Developed Presentation skill. Developed Playbooks. Many other fixes and minor features.
-
-- TypeScript, Python, Docker, Postgres, MCP
 
 ### [Kortix AI](https://kortix.ai/) (May 2025 - Aug 2025)
 
