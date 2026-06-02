@@ -2,7 +2,7 @@
 
 > Building next-gen software to make AI more accessible
 >
-> Python, TypeScript, Agents, MCP, Docker, React
+> TypeScript, Agents, MCP, Docker, React, Python
 >
 > Writer | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
@@ -92,11 +92,11 @@ Open source contributions
 
 ## Projects
 
+- **[AtomR](https://atom.sharath.uk)** | A clone of Chain Reaction with realtime multiplayer | Convex, Vite, React, mise
+
 - **[zevium](https://zevium.dev)** | Open marketplace for random APIs | Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite, mise
 
-- **[resumable-stream-python](https://github.com/kortix-ai/resumable-stream-python)** | Stream resumption for web streams in Python | Python, Redis, PyTest, uv, GitHub Actions, Web streams
-
-- **[sharath.boi.gg](https://boi.gg)** | my website, definitive edition | Tanstack Start, TypeScript, Tailwind, Cloudflare Workers, mise
+- **[sharath.boi.gg](https://boi.gg)** | My website, definitive edition | Tanstack Start, TypeScript, Tailwind, Cloudflare Workers, mise
 
 <details>
   <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
