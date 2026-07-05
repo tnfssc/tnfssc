@@ -4,4 +4,4 @@
 
 [![activity](https://raw.githubusercontent.com/tnfssc/combined-gh-stats/refs/heads/develop/combined-activity-overview.svg)](https://github.com/tnfssc/combined-gh-stats)
 
-[past work](https://sharath.boi.gg/past-work)
+[past work](https://www.sharath.ai)
