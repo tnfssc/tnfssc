@@ -1,4 +1,4 @@
-# [Sharath](https://sharath.boi.gg)
+# [Sharath](https://sharath.ai)
 
 > Building next-gen software to make AI more accessible
 >
@@ -6,8 +6,8 @@
 >
 > Writer | Kortix | Veritus | SaaS Labs | IIT Hyderabad
 
-[![boi.gg](https://img.shields.io/badge/website-boi.gg-red?style=for-the-badge)](https://sharath.boi.gg/)
-[![boi.gg/blog](https://img.shields.io/badge/blog-boi.gg%2Fblog-green?style=for-the-badge)](https://sharath.boi.gg/blog/)
+[![sharath.ai](https://img.shields.io/badge/website-sharath.ai-red?style=for-the-badge)](https://sharath.ai/)
+[![sharath.ai/blog](https://img.shields.io/badge/blog-sharath.ai%2Fblog-green?style=for-the-badge)](https://sharath.ai/blog/)
 [![sharath.uk](https://img.shields.io/badge/void-sharath.uk-blue?style=for-the-badge)](https://sharath.uk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&color=black&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/tnfssc/)
@@ -30,9 +30,13 @@ Open source contributions
 
 ### [WRITER](https://writer.com/) (Aug 2025 - now)
 
-**Software Engineer** | Building Writer Agent
+**Software Engineer** | Building Writer Agent / Action Agent
 
-- TypeScript, Python, Docker, Postgres, Restate, React
+- **Durable agent runtime** | Built resumable execution with Redis Streams/WAL and SSE, including cursor-based reconnects, replay deduplication, cancellation, recovery, checkpoints, and Restate workflows | _Python, Redis Streams, SSE, Restate_
+- **Nested agents** | Productionized parent-child orchestration with background execution, continuation and fan-in, inherited context, files and tools, durable artifacts, cancellation cascades, usage accounting, and navigable child runs | _Python, React, Multi-agent systems_
+- **Agent Skills and Playbooks** | Shipped reusable package-backed capabilities, chat-driven authoring, sandbox execution, scheduling, import/export, and embedded playbook runs | _Agent Skills, Playbooks, Sandboxes_
+- **LLM, tools and browser platform** | Hardened provider routing and failover, prompt caching, model catalogs, MCP authorization, browser automation, and usage observability | _MCP, Stagehand, Daytona, Langfuse_
+- **Full-stack product and foundations** | Built streaming agent UI, nested-run navigation, presentation and multimodal workflows, safer persistence boundaries, and reduced frontend test time from 707s to 192s | _TypeScript, React, PostgreSQL, GitHub Actions_
 
 ### [Veritus](https://www.veritus.ai/) (Aug 2024 - Jul 2025)
 
@@ -96,7 +100,7 @@ Open source contributions
 
 - **[zevium](https://zevium.dev)** | Open marketplace for random APIs | Cloudflare Workers, TanStack Start, tRPC, MCP, SQLite, mise
 
-- **[sharath.boi.gg](https://boi.gg)** | My website, definitive edition | Tanstack Start, TypeScript, Tailwind, Cloudflare Workers, mise
+- **[sharath.ai](https://sharath.ai)** | My website, definitive edition | TanStack Start, TypeScript, Tailwind, Cloudflare Workers, mise
 
 <details>
   <summary>Desktop apps, games, clusters, libraries, AI and more [click to expand]</summary>
